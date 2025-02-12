@@ -100,13 +100,13 @@ Thanks! If you feel like it, you can [follow me on Twitter](https://gaby.dev/twi
 ## Featured in...
 - [Linux Uprising Blog](https://www.linuxuprising.com/2018/11/edex-ui-fully-functioning-sci-fi.html)
 - [My post on r/unixporn](https://www.reddit.com/r/unixporn/comments/9ysbx7/oc_a_little_project_that_ive_been_working_on/)
-- [Korben article (in french)](https://korben.info/une-interface-futuriste-pour-vos-ecrans-tactiles.html)
+- [Korben article (in French)](https://korben.info/une-interface-futuriste-pour-vos-ecrans-tactiles.html)
 - [Hacker News](https://news.ycombinator.com/item?id=18509828)
 - [This tweet that made me smile](https://twitter.com/mikemaccana/status/1065615451940667396)
-- [BoingBoing article](https://boingboing.net/2018/11/23/simulacrum-sf.html) - Apparently i'm a "French hacker"
+- [BoingBoing article](https://boingboing.net/2018/11/23/simulacrum-sf.html) - Apparently I'm a "French hacker"
 - [OReilly 4 short links](https://www.oreilly.com/ideas/four-short-links-23-november-2018)
 - [Hackaday](https://hackaday.com/2018/11/23/look-like-a-movie-hacker/)
-- [Developpez.com (another french link)](https://www.developpez.com/actu/234808/Une-application-de-bureau-ressemble-a-une-interface-d-ordinateur-de-science-fiction-inspiree-des-effets-du-film-TRON-Legacy/)
+- [Developpez.com (another French link)](https://www.developpez.com/actu/234808/Une-application-de-bureau-ressemble-a-une-interface-d-ordinateur-de-science-fiction-inspiree-des-effets-du-film-TRON-Legacy/)
 - [GitHub Blog's Release Radar November 2018](https://blog.github.com/2018-12-21-release-radar-november-2018/)
 - [opensource.com Productive Tools for 2019](https://opensource.com/article/19/1/productivity-tool-edex-ui)
 - [O'Reilly 4 short links (again)](https://www.oreilly.com/radar/four-short-links-7-july-2020/)
